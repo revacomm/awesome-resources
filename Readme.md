@@ -54,49 +54,49 @@ RevaComm's Awesome Resources [![](https://camo.githubusercontent.com/64f89056512
 
 This is the Awesome Cyber Security section!
 
-* [awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security): A curated list for Awesome Kubernetes Security resources
-* [awesome-security](https://github.com/sbilly/awesome-security): A collection of awesome software, libraries, documents, books, resources and cools stuffs about security
+- [awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security): A curated list for Awesome Kubernetes Security resources
+- [awesome-security](https://github.com/sbilly/awesome-security): A collection of awesome software, libraries, documents, books, resources and cools stuffs about security
 
 
 ## ⚙️ DevSecOps
 
 This is the Awesome DevSecOps section!
 
-* [awesome-devsecops](https://github.com/devsecops/awesome-devsecops): An authoritative list of awesome devsecops tools with the help from community experiments and contributions
-* [Cloud-DevSecOps-Learning](https://github.com/chughes29/Cloud-DevSecOps-Learning): Collection of Cloud and DevSecOps learning resources
+- [awesome-devsecops](https://github.com/devsecops/awesome-devsecops): An authoritative list of awesome devsecops tools with the help from community experiments and contributions
+- [Cloud-DevSecOps-Learning](https://github.com/chughes29/Cloud-DevSecOps-Learning): Collection of Cloud and DevSecOps learning resources
 
 
 ## 🪄 Software Development
 
 This is the Awesome Software Development section!
 
-* [awesome-cli](https://github.com/umutphp/awesome-cli): A simple command line tool to give you a fancy command line interface to dive into Awesome lists
-* [awesome-devenv](https://github.com/jondot/awesome-devenv): A curated list of awesome tools, resources and workflow tips making an awesome development environment
+- [awesome-cli](https://github.com/umutphp/awesome-cli): A simple command line tool to give you a fancy command line interface to dive into Awesome lists
+- [awesome-devenv](https://github.com/jondot/awesome-devenv): A curated list of awesome tools, resources and workflow tips making an awesome development environment
 
 
 ## 💾 Section
 
 About this section. Optional. Keep this short and focus on the list.
 
-* [List item](http://example.com): List item description
-* [List item](http://example.com): List item description
+- [List item](http://example.com): List item description
+- [List item](http://example.com): List item description
 
 
 ## 💭 Another Section
 
 ### 📌 Subsection
 
-* [List item](http://example.com): List item description
-* [List item](http://example.com): List item description
+- [List item](http://example.com): List item description
+- [List item](http://example.com): List item description
 
 
 ## 📞 Project Assistance
 
 If you want to say **thank you** or/and support active development of Awesome Resources:
 
-* Add a [GitHub Star](https://github.com/revacomm/awesome-resources) to the project.
-* Tweet about the Awesome Resources.
-* Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
+- Add a [GitHub Star](https://github.com/revacomm/awesome-resources) to the project.
+- Tweet about the Awesome Resources.
+- Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
 Together, we can make Awesome Resources **better**!
 
