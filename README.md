@@ -67,7 +67,7 @@ This is the Awesome DevSecOps section!
 - [Cloud-DevSecOps-Learning](https://github.com/chughes29/Cloud-DevSecOps-Learning): Collection of Cloud and DevSecOps learning resources
 
 
-## 🐞 Open Source Software (OSS)
+## 💻 Open Source Software (OSS)
 
 This is the Awesome Open Source Software (OSS) section!
 
