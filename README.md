@@ -34,7 +34,7 @@ RevaComm's Awesome Resources [![](https://camo.githubusercontent.com/64f89056512
 
 * [🔐 Cyber Security](#-cyber-security)
 * [⚙️ DevSecOps](#-devsecops)
-* [🐞 Open Source Software (OSS)](#-open-source-software-oss)
+* [💻 Open Source Software (OSS)](#-open-source-software-oss)
 * [🪄 Software Development](#-software-development)
 * [💾 Section](#-section)
 * [💭 Another Section](#-another-section)
