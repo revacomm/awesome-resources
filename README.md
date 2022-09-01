@@ -39,7 +39,7 @@ RevaComm's Awesome Resources [![](https://camo.githubusercontent.com/64f89056512
 * [💡 Other Awesome Resources](#-other-awesome-resources)
 * [💾 Section](#-section)
 * [💭 Another Section](#-another-section)
-    * [📌 Subsection](#-subsection)
+  * [📌 Subsection](#-subsection)
 * [📞 Project Assistance](#-project-assistance)
 * [❤️ Contributing](#-contributing)
 * [📖 Authors & Contributors](#-authors--contributors)
@@ -81,6 +81,7 @@ This is the Awesome Software Development section!
 
 - [awesome-cli](https://github.com/umutphp/awesome-cli): A simple command line tool to give you a fancy command line interface to dive into Awesome lists
 - [awesome-devenv](https://github.com/jondot/awesome-devenv): A curated list of awesome tools, resources and workflow tips making an awesome development environment
+- [devbox](https://github.com/jetpack-io/devbox): Instant, easy, predictable shells and containers
 
 
 ## 💡 Other Awesome Resources
