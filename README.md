@@ -32,19 +32,20 @@ RevaComm's Awesome Resources [![](https://camo.githubusercontent.com/64f89056512
 
 <!-- vim-markdown-toc GFM -->
 
-* [🔐 Cyber Security](#-cyber-security)
-* [⚙️ DevSecOps](#-devsecops)
-* [💻 Open Source Software (OSS)](#-open-source-software-oss)
-* [🪄 Software Development](#-software-development)
-* [💡 Other Awesome Resources](#-other-awesome-resources)
-* [💾 Section](#-section)
-* [💭 Another Section](#-another-section)
-  * [📌 Subsection](#-subsection)
-* [📞 Project Assistance](#-project-assistance)
-* [❤️ Contributing](#-contributing)
-* [📖 Authors & Contributors](#-authors--contributors)
-* [🔒 Security](#-security)
-* [🙏 Acknowledgements](#-acknowledgements)
+- [📓 Contents](#-contents)
+- [🔐 Cyber Security](#-cyber-security)
+- [⚙️ DevSecOps](#️-devsecops)
+- [💻 Open Source Software (OSS)](#-open-source-software-oss)
+- [🪄 Software Development](#-software-development)
+- [💡 Other Awesome Resources](#-other-awesome-resources)
+- [💾 Section](#-section)
+- [💭 Another Section](#-another-section)
+  - [📌 Subsection](#-subsection)
+- [📞 Project Assistance](#-project-assistance)
+- [❤️ Contributing](#️-contributing)
+- [📖 Authors \& Contributors](#-authors--contributors)
+- [🔒 Security](#-security)
+- [🙏 Acknowledgements](#-acknowledgements)
 
 <!-- vim-markdown-toc -->
 
@@ -89,6 +90,7 @@ This is the Awesome Software Development section!
 This is the section for Other Awesome Resources!
 
 - [xg2xg](https://github.com/jhuangtw/xg2xg): A lookup table of similar Google technologies & services by ex-googlers, for ex-googlers
+- [josephearl/awesome-retrospectives](https://github.com/josephearl/awesome-retrospectives): List of tools and techniques for holding Retrospectives. 
 
 
 ## 💾 Section
